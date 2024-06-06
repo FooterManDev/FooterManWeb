@@ -1,6 +1,6 @@
-# footerman
+# FooterManWeb
 
-This template should help get you started developing with Vue 3 in Vite.
+https://footerman.pages.dev/
 
 ## Recommended IDE Setup
 
